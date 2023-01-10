@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+body {
+  background-color: #a29bfe;
+  font-family: 'Source Code Pro', monospace;
+}
+
+textarea, .preview-box {
+  min-height: 400px;
+}
+
+textarea {
+  height: 90%;
+}
+
+.preview-box {
+  background-color: white;
+}
+
+.preview-box img {
+  max-width: 100%;
+}
