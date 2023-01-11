@@ -3,4 +3,4 @@ My Markdown Previewer solution for freeCodeCamp's Front End Development Librarie
 
 Using HTML, CSS, JavaScript, React.js, Bootstrap and Marked.
 
-https://codepen.io/teoentrelibros/full/ZEjeQLN
+https://codepen.io/mateorinland/full/ZEjeQLN
